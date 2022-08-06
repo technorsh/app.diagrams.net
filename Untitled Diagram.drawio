@@ -1,4 +1,4 @@
-<mxfile modified="2022-08-06T04:25:43.181Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ELz4ar65SRdAdV06AcGm" version="20.2.2" type="github">
+<mxfile modified="2022-08-06T05:14:35.988Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BuJ2bQoVfSB9wR4tCu_8" version="20.2.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="946" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="429" y="248" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WpAioB1oIcQafXRasI7H-35" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="799" y="178" width="50" height="50" as="geometry" />
+          <mxGeometry x="802" y="178" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WpAioB1oIcQafXRasI7H-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WpAioB1oIcQafXRasI7H-37" target="WpAioB1oIcQafXRasI7H-35">
           <mxGeometry relative="1" as="geometry" />
@@ -94,7 +94,7 @@
           <mxGeometry x="590" y="247" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WpAioB1oIcQafXRasI7H-39" value="Lambda" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="793" y="247" width="60" height="20" as="geometry" />
+          <mxGeometry x="797" y="246" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WpAioB1oIcQafXRasI7H-46" value="For Storing Logs of CodeBuild" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#FFFFFF;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="394" y="290" width="65" height="49" as="geometry" />
